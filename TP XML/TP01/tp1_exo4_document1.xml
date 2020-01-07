@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Contacts>
+	<Personne>
+		<nom>Ali</nom>
+		<prenom>Ahmed</prenom>
+		<ville>tiaret</ville>
+	</Personne>
+	<Personne>
+		<nom>Mustapha</nom>
+		<prenom>Said</prenom>
+		<societe> Algérie Telecom </societe>
+		<ville> oran </ville>
+		<Email>ali.ahmed@gmail.com</Email>
+	</Personne>
+</Contacts>

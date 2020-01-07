@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exercice1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="file:/J:/M2/XML/TP/XML%20master%202/td_2_ex1.xsd">
+    <TypeTime>03:35:26</TypeTime>
+    <number_reel>5</number_reel>
+    <chaine_4>0806</chaine_4>
+    <liste_limite>png</liste_limite>
+    <nemuro_13>1425367894859</nemuro_13>
+</exercice1>

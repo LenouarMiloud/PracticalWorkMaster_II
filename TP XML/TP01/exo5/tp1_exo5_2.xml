@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personne SYSTEM "annuaire.dtd">
+<personne type="etudiant">
+ <nom>Keita</nom>
+ <prenom>kemeoko</prenom>
+ <email>halleb.com</email>  
+ <tel type="fixe">9498475848</tel>
+</personne>

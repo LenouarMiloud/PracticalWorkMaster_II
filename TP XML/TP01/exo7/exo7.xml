@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda SYSTEM "exo7.dtd">
+<agenda>
+    <personne situation="célibataire" id_personne="root">
+        <nom titre="M">SANGARE</nom>
+        <prenom>Moussa</prenom>
+        <prenom2 prenom3="Keita">Pasto</prenom2>
+        <adresse>
+            <rue>14 rue Ali Maachi</rue>
+            <code_postal>14000</code_postal>
+            <ville>Tiaret</ville>
+        </adresse>
+        <telephone Type="bureau">09876654323</telephone>
+    </personne>
+</agenda>

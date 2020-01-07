@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Amina>
+	<Robes>
+		<Robe1>
+			<color>Rose</color>
+			<season>ete</season>
+		</Robe1>
+		<Robe1>
+			<color>Vert</color>
+			<season>ete</season>
+		</Robe1>
+		<Robe1>
+			<color>Blue</color>
+			<season>Hiver</season>
+		</Robe1>					
+	</Robes>
+	<pantalons>
+		<pantalon1>
+			<color>blanc</color>
+			<season>ete</season>
+		</pantalon1>
+		<pantalon2>
+			<color>beige</color>
+			<season>hiver</season>			
+		</pantalon2>
+	</pantalons>
+</Amina>

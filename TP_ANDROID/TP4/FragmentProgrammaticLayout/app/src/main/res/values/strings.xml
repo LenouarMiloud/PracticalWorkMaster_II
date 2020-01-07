@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentProgrammaticLayout</string>
+    <string-array name="Titles">
+        <item>Mercedes IMG</item>
+        <item>Bugatii</item>
+        <item>Rang Rover</item>
+    </string-array>
+    <string-array name="Quotes">
+        <item>Salary: 45600 $ \n Color : White \n Numer of Doors: 2 .</item>
+        <item>Salary: 62100 $ \n Color : Black \n Numer of Doors: 2.</item>
+        <item>Salary: 2690 $ \n Color : Red \n Numer of Doors: 4.</item>
+    </string-array>
+</resources>

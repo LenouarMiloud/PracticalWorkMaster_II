@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliographie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="file:/D:/TP_Master/TP%20XML/TP02/exo3/td_2_exo3.xsd">
+    <title>    </title>
+    <auteur>
+        <id>     </id>
+        <nom>     </nom>
+        <prenom>    </prenom>
+        <gender>
+            <femme>   </femme>
+        </gender>
+    </auteur>
+    <tome>70</tome>
+    <date>2016-03-04</date>
+</bibliographie>

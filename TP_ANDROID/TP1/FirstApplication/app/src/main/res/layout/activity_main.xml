@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView android:id="@+id/create"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/onCreate"
+        android:textColor="#000000"
+        android:layout_marginTop="150dp"/>
+
+    <TextView android:id="@+id/start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/onStart"
+        android:layout_below="@+id/create"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"/>
+
+    <TextView android:id="@+id/resume"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/onResume"
+        android:layout_below="@id/start"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"/>
+
+    <TextView android:id="@+id/restart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/onRestart"
+        android:layout_below="@id/resume"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"/>
+
+    <Button android:id="@+id/bLaunchActivityTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginLeft="120dp"/>
+
+</RelativeLayout>

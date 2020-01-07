@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentDynamicLayoutWithActionBar</string>
+    <string-array name="Titles">
+        <item>Messi</item>
+        <item>C.Ronaldo</item>
+        <item>E.Hazard</item>
+    </string-array>
+    <string-array name="Quotes">
+        <item>Nationality: Argentine \n Tshirt-number 10 Club: FC Barcelone .</item>
+        <item>Nationality: Portugal \n Tshirt-number 7 Club: FC Real Madrid.</item>
+        <item>Nationality: Belguim \n Tshirt-number 17 Club: FC Chelsea.</item>
+    </string-array>
+</resources>

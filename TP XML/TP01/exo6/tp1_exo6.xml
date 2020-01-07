@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda SYSTEM "agenda.dtd">
+<agenda>
+    <personne>
+        <nom></nom>
+        <prenom></prenom>
+        <adresse>
+            <rue></rue>
+            <code_postal></code_postal>
+            <ville></ville>
+        </adresse>
+        <tel></tel>
+    </personne>
+</agenda>
+

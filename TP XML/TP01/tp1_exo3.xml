@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<polyedres>
+    <polyedre name="tetraèdre">
+        <matiere> plastique</matiere>
+        <faces>
+            <face>
+                <number>1</number>
+                <color>blue</color>
+            </face>
+            <face>
+                <number>2</number>
+                <color>green</color>
+            </face>
+            <face>
+                <number>3</number>
+                <color>yellow</color>
+            </face>
+            <face>
+                <number>4</number>
+                <color>babaye</color>
+            </face>
+        </faces>
+    </polyedre>
+    <polyedre name="cube">
+        <matiere> Metal</matiere>
+        <faces>
+            <face>
+                <number>1</number>
+                <color>blue</color>
+            </face>
+            <face>
+                <number>2</number>
+                <color>green</color>
+            </face>
+            <face>
+                <number>3</number>
+                <color>yellow</color>
+            </face>
+            <face>
+                <number>4</number>
+                <color>red</color>
+            </face>
+            <face>
+                <number>5</number>
+                <color>black</color>
+            </face>
+            <face>
+                <number>6</number>
+                <color>violet</color>
+            </face>
+        </faces>
+    </polyedre>
+    <polyedre name="icosaedre">
+        <matiere> zinc</matiere>
+        <faces>
+            <face>
+                <number>1</number>
+                <color>blue</color>
+            </face>
+            <face>
+                <number>2</number>
+                <color>green</color>
+            </face>
+            <face>
+                <number>3</number>
+                <color>yellow</color>
+            </face>
+            <face>
+                <number>4</number>
+                <color>black</color>
+            </face>
+            <face>
+                <number>5</number>
+                <color>rose</color>
+            </face>
+            <face>
+                <number>6</number>
+                <color>maroon</color>
+            </face>
+            <face>
+                <number>7</number>
+                <color>orange</color>
+            </face>
+            <face>
+                <number>8</number>
+                <color>cyan</color>
+            </face>
+        </faces>
+    </polyedre>    
+</polyedres>
