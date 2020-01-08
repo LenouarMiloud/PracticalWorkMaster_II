@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         //define the Seek Bar Variable
         SeekBar seekBar = findViewById(R.id.seek);
 
+        //set the Action when the seek bar is changed 
         seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
             public void onProgressChanged(SeekBar seekBar, int i, boolean b) {
