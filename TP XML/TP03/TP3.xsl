@@ -1,0 +1,1 @@
+liste/livre//titre[@genre="photo"])[1]

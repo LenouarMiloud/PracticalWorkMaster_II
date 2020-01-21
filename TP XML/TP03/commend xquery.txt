@@ -1,0 +1,29 @@
+exo1
+======
+
+for $i in //liste/livre
+return $i/titre
+
+for $i in //liste/livre
+return $i/auteur
+
+for $i in //livre/titre
+where $i/@genre="jeu"
+return $i
+
+for $i in //liste/livre//titre[@genre="photo"]
+return $i
+
+for $i in //liste/livre
+return $i//titre/lower-case(text())
+
+let $i:= //liste/livre//titre
+return $i/upper-case(text())
+
+tokenize(/liste/livre[1]/titre, ' ')[1]
+
+
+
+
+
+
